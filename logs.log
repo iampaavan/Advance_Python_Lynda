@@ -1,0 +1,18 @@
+2019-05-15 00:54:57,823: INFO: main Line:13 This is an info-level log message.
+2019-05-15 00:54:57,824: WARNING: main Line:14 This is a warning-level message.
+2019-05-15 00:55:11,394: INFO: main Line:13 This is an info-level log message.
+2019-05-15 00:55:11,394: WARNING: main Line:14 This is a warning-level message.
+2019-05-15 00:55:15,722: INFO: main Line:13 This is an info-level log message.
+2019-05-15 00:55:15,722: WARNING: main Line:14 This is a warning-level message.
+05/15/2019 12:59:38 AM: INFO: main Line:18 This is an info-level log message.
+05/15/2019 12:59:38 AM: WARNING: main Line:19 This is a warning-level message.
+05/15/2019 12:59:38 AM: DEBUG: anotherFunction Line:8 This is a debug-level message.
+05/15/2019 12:59:39 AM: INFO: main Line:18 This is an info-level log message.
+05/15/2019 12:59:39 AM: WARNING: main Line:19 This is a warning-level message.
+05/15/2019 12:59:39 AM: DEBUG: anotherFunction Line:8 This is a debug-level message.
+User: paavan014@gmail.com 05/15/2019 01:03:59 AM: INFO: main Line:21 This is an info-level log message.
+User: paavan014@gmail.com 05/15/2019 01:03:59 AM: WARNING: main Line:22 This is a warning-level message.
+User: paavan014@gmail.com 05/15/2019 01:03:59 AM: DEBUG: anotherFunction Line:11 This is a debug-level message.
+User: paavan014@gmail.com 05/15/2019 01:04:00 AM: INFO: main Line:21 This is an info-level log message.
+User: paavan014@gmail.com 05/15/2019 01:04:00 AM: WARNING: main Line:22 This is a warning-level message.
+User: paavan014@gmail.com 05/15/2019 01:04:00 AM: DEBUG: anotherFunction Line:11 This is a debug-level message.
